@@ -10,9 +10,11 @@ One question that kept bothering me was:
 
 If LLMs are good at understanding scientific literature, why are they still so bad at exploring ideas that aren't already obvious?
 
-That question became **SciNets**.
+That question became SciNets.
 
-Instead of treating literature synthesis as another retrieval problem, I explored whether AI could search for mechanistic connections scattered across fragmented research through graph-constrained reasoning rather than simply repeating what was already known. Building the system naturally raised deeper questions about structured reasoning, grounding, and exploration, which eventually became a research paper.
+The idea was simple instead of asking an LLM to repeat what was already written, could we build a system that explores connections hidden across different papers and surfaces ideas worth investigating?
+
+Building it taught me far more than I expected, and eventually led me to write a paper about what worked, what didn't, and what I learned along the way.
 
 **Explore the project**
 
