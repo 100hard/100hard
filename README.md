@@ -28,9 +28,8 @@ Building it taught me far more than I expected, and eventually led me to write a
 
 ## I find myself being interested in
 
-
-* AI Infrastructure
 * Backend Engineering
 * Distributed Systems
+* DeFi and Blockchain Infrastructure
 
 
