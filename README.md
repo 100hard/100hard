@@ -1,15 +1,23 @@
 # Hi, I'm Sauhard.
 
-I have a habit of getting interested in things I know very little about.
+As a kid, I had a peculiar habit of breaking things.
 
-It usually starts with a question, leads to seventeen open tabs, a few questionable life decisions, and occasionally, something gets built.
+Not necessarily because I didn't like them. I just wanted to know what was going on inside. What made them work? How were all those little pieces connected? And more importantly, could I put them back together?
 
-I'm fascinated by how things work, why they work the way they do, and whether they could work differently.
+The last question wasn't always answered successfully.
 
-Somewhere between engineering, philosophy, technology, and the occasional existential detour, I spend my time figuring things out.
+I suppose not much has changed since then.
 
-I don't particularly enjoy staying in one lane. There are too many interesting roads, and unfortunately, curiosity doesn't come with a navigation system.
+I still take things apart, except now they're more likely to be software, systems, or ideas than household objects.
 
-I build things, break things, explore ideas, and write about some of it.
+I'm fascinated by how things work beneath the surface, how seemingly unrelated pieces fit together, and what happens when you question the assumptions holding them together.
 
-Still trying to figure out what I'm doing. Having a reasonably good time doing it.
+I study engineering, write code, build things, and occasionally wander into subjects I never intended to learn about.
+
+I don't think curiosity has a particularly good sense of direction. Mine certainly doesn't.
+
+But it has taken me to some interesting places.
+
+This is where I document a few of them.
+
+Still taking things apart. Getting slightly better at putting them back together.
