@@ -1,35 +1,15 @@
 # Hi, I'm Sauhard.
 
-Everyone has a story.
+I have a habit of getting interested in things I know very little about.
 
-Here's mine, so far.
+It usually starts with a question, leads to seventeen open tabs, a few questionable life decisions, and occasionally, something gets built.
 
-I enjoy chasing questions that don't have obvious answers. Most of the time that means building software. Occasionally it means writing about what I learned along the way.
+I'm fascinated by how things work, why they work the way they do, and whether they could work differently.
 
-One question that kept bothering me was:
+Somewhere between engineering, philosophy, technology, and the occasional existential detour, I spend my time figuring things out.
 
-If LLMs are good at understanding scientific literature, why are they still so bad at exploring ideas that aren't already obvious?
+I don't particularly enjoy staying in one lane. There are too many interesting roads, and unfortunately, curiosity doesn't come with a navigation system.
 
-That question became SciNets.
+I build things, break things, explore ideas, and write about some of it.
 
-The idea was simple instead of asking an LLM to repeat what was already written, could we build a system that explores connections hidden across different papers and surfaces ideas worth investigating?
-
-Building it taught me far more than I expected, and eventually led me to write a paper about what worked, what didn't, and what I learned along the way.
-
-**Explore the project**
-
-• Website: https://scinets.in
-
-• Research Paper: https://arxiv.org/abs/2601.09727
-
-• Source Code: https://github.com/100hard/SciNets
-
----
-
-## I find myself being interested in
-
-* Backend Engineering
-* Distributed Systems
-* DeFi and Blockchain Infrastructure
-
-
+Still trying to figure out what I'm doing. Having a reasonably good time doing it.
